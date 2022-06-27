@@ -28,3 +28,5 @@ htmlcov/
 .direnv
 
 .github/**
+
+kubectl.exe
